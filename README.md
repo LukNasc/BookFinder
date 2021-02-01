@@ -3,8 +3,9 @@
 A new flutter project created for study and learning, the project is an application that searches for books according to the research that the user does. A free book API is used, [IT Bookstore REST API v1.0.](https://www.programmableweb.com/api/it-bookstore-rest-api-v10)
 
 ## Screenshots
-![Home Page](./assets/image_1.png)
-![Broser Page](./assets/image_2.png)
+<img src="./assets/image_1.png" width="250px"/>
+<img src="./assets/image_2.png" width="250px" />  
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
